@@ -63,6 +63,6 @@ The repository contains several additional files, which are the following:
 
 --> **_test1.png_** && **_test2.png_** -- samples of the plotter work, which are included in the _repontOnLSA_.
 
---> **_v(t)_k(t)_** && **v(k)** -- samples of the plotter work, respectively according to files' names.
+--> **_v(t)_\__k(t)_** && **v(k)** -- samples of the plotter work, respectively according to files' names.
 
 Several files, the names of which describe themselves better, You can implement by yourself every particular case using the **_main.cpp_**.
