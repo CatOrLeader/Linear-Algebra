@@ -50,6 +50,9 @@ Overloaded all necessary operators for both classes: **summation, subtractions, 
 
 A deeper understanding of possible operations with both classes can be obtained by skimming the program itself. All difficult parts in the code commented as well as possible. 
 
+## **Differential Equations**
+Using Prey-Predator model to solve differential equations. To see more precisable input format, check the appropriate file. Moreover, program plot the next graphs according user's choice: v(t) & k(t) OR v(k) {with the usage of GNUPlot}.
+
 ## **Addition information**
 
 The repository contains several additional files, which are the following:
@@ -60,7 +63,6 @@ The repository contains several additional files, which are the following:
 
 --> **_test1.png_** && **_test2.png_** -- samples of the plotter work, which are included in the _repontOnLSA_.
 
+--> **_v(t)_k(t)_** && **v(k)** -- samples of the plotter work, respectively according to files' names.
+
 Several files, the names of which describe themselves better, You can implement by yourself every particular case using the **_main.cpp_**.
-
-
-
