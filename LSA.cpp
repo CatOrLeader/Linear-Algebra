@@ -846,7 +846,7 @@ int main() {
     fprintf(plotter, "%s\n", "plot '-' title 'rawData' with lines linestyle 1, [x=-100:100] f(x) title 'fittedData' with "
                              "lines linestyle 2");
     for (int i = 0; i < datasetLength; i++) {
-        fprintf(plotter, "%f%f\n", t[i], b[i]);
+        fprintf(plotter, "%lf %lf\n", t[i], b[i]);
     }
     fprintf(plotter, "%c\n", 'e');
 
